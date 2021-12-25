@@ -1,0 +1,19 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<mask id="circle">
+		<circle cx="275" cy="175" r="100" fill="white" />
+	</mask>
+	<rect x="0" y="0" width="400" height="300" fill="#0B2429" />
+
+	<circle id="og" cx="225" cy="125" r="100" mask="url(#circle)" stroke="none" />
+	<use href="#og" transform="translate(-100, 0)" fill="#1A4341" />
+	<rect x="75" y="175" width="50" height="50" fill="#1A4341" />
+	<rect x="175" y="75" width="50" height="50" fill="#1A4341" />
+
+	<use href="#og" transform="translate(-50, 0)" fill="#998235" />
+	<rect x="125" y="175" width="50" height="50" fill="#998235" />
+	<rect x="225" y="75" width="50" height="50" fill="#998235" />
+
+	<use href="#og" fill="#F3AC3C" />
+	<rect x="175" y="175" width="50" height="50" fill="#F3AC3C" />
+	<rect x="275" y="75" width="50" height="50" fill="#F3AC3C" />
+</svg>
