@@ -51,4 +51,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 3. Overlap
 ![Overlap SVG](Visibility/target3.svg)
 
+## 4. Eye of the Tiger
+![Eye of the Tiger SVG](Visibility/target4.svg)
+
 More coming soon!
