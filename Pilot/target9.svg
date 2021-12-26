@@ -1,0 +1,11 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<mask id="box">
+		<rect x="0" y="0" width="400" height="300" fill="white" />
+		<path d="M 25,150 l 175,175 l 175,-175 l -175,-175 Z" stroke="black" stroke-width="2" />
+	</mask>
+	<rect x="0" y="0" width="400" height="300" fill="#222730" />
+
+	<rect x="0" y="75" width="400" height="150" fill="#4CAAB3" mask="url(#box)" />
+	<rect x="200" y="45" width="150" height="150" fill="#4CAAB3" transform="rotate(45, 200,45)" />
+	<circle cx="200" cy="150" r="25" fill="#393E46" />
+</svg>
