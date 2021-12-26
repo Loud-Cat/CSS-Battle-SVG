@@ -54,4 +54,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 4. Eye of the Tiger
 ![Eye of the Tiger SVG](Visibility/target4.svg)
 
+## 5. Fidget Spinner
+![Fidget Spinner SVG](Visibility/target5.svg)
+
 More coming soon!
