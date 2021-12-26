@@ -1,0 +1,18 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<mask id="eyelash">
+		<rect x="0" y="150" width="200" height="150" fill="white" />
+		<circle cx="100" cy="150" r="30" />
+
+		<rect x="200" y="0" width="200" height="150" fill="white" />
+		<circle cx="300" cy="150" r="30" />
+	</mask>
+	<rect x="0" y="0" width="400" height="300" fill="#191210" />
+
+	<circle cx="100" cy="150" r="50" fill="#ECA03D" mask="url(#eyelash)" />
+
+	<circle cx="200" cy="150" r="70" fill="#ECA03D" />
+	<circle cx="200" cy="150" r="50" fill="#191210" />
+	<circle cx="200" cy="150" r="25" fill="#84271C" />
+
+	<circle cx="300" cy="150" r="50" fill="#ECA03D" mask="url(#eyelash)" />
+</svg>
