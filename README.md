@@ -48,4 +48,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 2. Web Maker Logo
 ![Web Maker Logo SVG](Visibility/target2.svg)
 
+## 3. Overlap
+![Overlap SVG](Visibility/target3.svg)
+
 More coming soon!
