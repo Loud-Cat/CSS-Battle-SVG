@@ -40,3 +40,9 @@ More info on CSS Battle at https://cssbattle.dev
 
 ## 12. Wiggly Mustache
 ![Wiggly Mustache SVG](Pilot/target12.svg)
+
+# Battle #2 - Visibility
+## 1. Totally Triangle
+![Totally Triangle SVG](Visibility/target1.svg)
+
+More coming soon!
