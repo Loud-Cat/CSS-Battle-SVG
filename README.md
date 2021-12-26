@@ -45,4 +45,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 1. Totally Triangle
 ![Totally Triangle SVG](Visibility/target1.svg)
 
+## 2. Web Maker Logo
+![Web Maker Logo SVG](Visibility/target2.svg)
+
 More coming soon!
