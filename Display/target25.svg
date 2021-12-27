@@ -1,0 +1,17 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<rect x="0" y="0" width="400" height="300" fill="#998235" />
+
+	<symbol id="leafBig" viewBox="0 0 80 100" width="80" height="100" fill="#1A4341">
+		<path d="M 0,0 h35 q 45,0 45,45 v55 h-35 q -45,0 -45,-45 Z" />
+	</symbol>
+
+	<symbol id="leafSmall" viewBox="0 0 80 60" width="80" height="60" fill="#F3AC3C">
+		<path d="M 0,0 h35 c 10,0 40,10 45,45 v15 h-35 q -45,0 -45,-45 Z" />
+	</symbol>
+
+	<use href="#leafBig" x="110" y="60" />
+	<use href="#leafBig" x="210" y="60" transform="scale(1,-1)" transform-origin="center" />
+
+	<use href="#leafSmall" x="110" y="180" />
+	<use href="#leafSmall" x="210" y="180" transform="scale(1,-1)" transform-origin="center" />
+</svg>
