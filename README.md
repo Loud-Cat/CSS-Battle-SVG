@@ -92,4 +92,8 @@ More info on CSS Battle at https://cssbattle.dev
 ## 28. Cups & Balls
 ![Cups & Balls SVG](Display/target28.svg)
 
+# Battle #5 - Inline
+## 29. Suffocate
+![Suffocate SVG](Inline/target29.svg)
+
 More coming soon!
