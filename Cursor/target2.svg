@@ -1,0 +1,15 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<mask id="ticket">
+		<rect x="0" y="0" width="400" height="300" fill="white" />
+		<circle cx="100" cy="100" r="20" />
+		<circle cx="100" cy="200" r="20" />
+		<circle cx="240" cy="100" r="10" />
+		<circle cx="240" cy="200" r="10" />
+		<circle cx="300" cy="100" r="20" />
+		<circle cx="300" cy="200" r="20" />
+	</mask>
+	<rect x="0" y="0" width="400" height="300" fill="#62306D" />
+
+	<rect x="100" y="100" width="140" height="100" fill="#F7EC7D" mask="url(#ticket)" />
+	<rect x="240" y="100" width="60" height="100" fill="#E38F66" mask="url(#ticket)" />
+</svg>
