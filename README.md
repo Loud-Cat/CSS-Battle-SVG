@@ -66,4 +66,12 @@ More info on CSS Battle at https://cssbattle.dev
 
 ## 20. Ticket
 ![Ticket SVG](Cursor/target20.svg)
+
+# Battle #4 - Display
+## 21. SitePoint Logo
+![SitePoint Logo SVG](Display/target21.svg)
+
+## 22. Cloud
+![Cloud SVG](Display/target22.svg)
+
 More coming soon!
