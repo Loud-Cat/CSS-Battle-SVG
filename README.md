@@ -83,4 +83,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 25. Blossom
 ![Blossom SVG](Display/target25.svg)
 
+## 26. Smiley
+![Smiley SVG](Display/target26.svg)
+
 More coming soon!
