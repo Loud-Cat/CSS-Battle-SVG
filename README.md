@@ -86,4 +86,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 26. Smiley
 ![Smiley SVG](Display/target26.svg)
 
+## 27. Lock Up
+![Lock Up SVG](Display/target27.svg)
+
 More coming soon!
