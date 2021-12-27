@@ -1,0 +1,13 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<mask id="left">
+		<rect x="125" y="75" width="75" height="150" fill="white" />
+	</mask>
+	<mask id="right">
+		<rect x="200" y="50" width="100" height="100" fill="white" />
+	</mask>
+	<rect x="0" y="0" width="400" height="300" fill="#1A4341" />
+
+		<circle cx="200" cy="150" r="100" fill="#F3AC3C" mask="url(#right)" />
+		<circle cx="200" cy="150" r="75" fill="#998235" mask="url(#left)" />
+		<circle cx="170" cy="120" r="15" fill="#0B2429" />
+</svg>
