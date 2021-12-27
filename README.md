@@ -57,4 +57,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 5. Fidget Spinner
 ![Fidget Spinner SVG](Visibility/target5.svg)
 
+## 6. Matrix
+![Matrix SVG](Visibility/target6.svg)
+
 More coming soon!
