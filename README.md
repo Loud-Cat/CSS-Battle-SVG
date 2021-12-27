@@ -89,4 +89,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 27. Lock Up
 ![Lock Up SVG](Display/target27.svg)
 
+## 28. Cups & Balls
+![Cups & Balls SVG](Display/target28.svg)
+
 More coming soon!
