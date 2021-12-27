@@ -32,8 +32,8 @@ More info on CSS Battle at https://cssbattle.dev
 ## 9. Tesseract
 ![Tesseract SVG](Pilot/target9.svg)
 
-## 10. Cloaked Sprits
-![Cloaked Sprits SVG](Pilot/target10.svg)
+## 10. Cloaked Spirits
+![Cloaked Spirits SVG](Pilot/target10.svg)
 
 ## 11. Eye of Sauron
 ![Eye of Sauron SVG](Pilot/target11.svg)
