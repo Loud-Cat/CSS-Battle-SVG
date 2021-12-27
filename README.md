@@ -42,22 +42,26 @@ More info on CSS Battle at https://cssbattle.dev
 ![Wiggly Mustache SVG](Pilot/target12.svg)
 
 # Battle #2 - Visibility
-## 1. Totally Triangle
+## 13. Totally Triangle
 ![Totally Triangle SVG](Visibility/target1.svg)
 
-## 2. Web Maker Logo
+## 14. Web Maker Logo
 ![Web Maker Logo SVG](Visibility/target2.svg)
 
-## 3. Overlap
+## 15. Overlap
 ![Overlap SVG](Visibility/target3.svg)
 
-## 4. Eye of the Tiger
+## 16. Eye of the Tiger
 ![Eye of the Tiger SVG](Visibility/target4.svg)
 
-## 5. Fidget Spinner
+## 17. Fidget Spinner
 ![Fidget Spinner SVG](Visibility/target5.svg)
 
-## 6. Matrix
+## 18. Matrix
 ![Matrix SVG](Visibility/target6.svg)
+
+# Battle #3 - Cursor
+## 19. Cube
+![Cube SVG](Visibility/target1.svg)
 
 More coming soon!
