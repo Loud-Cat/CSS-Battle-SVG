@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<symbol id="upcup" viewBox="0 0 2 2" width="50" height="50">
+		<circle cx="1" cy="1" r="1" />
+		<rect x="0" y="1" width="2" height="1" />
+	</symbol>
+	<symbol id="downcup" viewBox="0 0 2 2" width="50" height="50">
+		<circle cx="1" cy="1" r="1" />
+		<rect x="0" y="0" width="2" height="1" />
+	</symbol>
+	<rect x="0" y="0" width="400" height="300" fill="#1A4341" />
+
+	<circle cx="95" cy="115" r="25" fill="#998235" />
+	<use href="#upcup" x="140" y="90" fill="#F3AC3C" />
+	<use href="#upcup" x="210" y="90" fill="#998235" />
+	<circle cx="305" cy="115" r="25" fill="#F3AC3C" />
+
+	<use href="#downcup" x="70" y="160" fill="#F3AC3C" />
+	<circle cx="165" cy="185" r="25" fill="#998235" />
+	<circle cx="235" cy="185" r="25" fill="#F3AC3C" />
+	<use href="#downcup" x="280" y="160" fill="#998235" />
+</svg>
