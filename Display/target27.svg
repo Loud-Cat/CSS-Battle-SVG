@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<mask id="corners">
+		<rect x="0" y="0" width="400" height="300" fill="white" />
+		<circle cx="200" cy="150" r="40" />
+		<rect x="130" y="80" width="70" height="70" />
+		<rect x="200" y="150" width="70" height="70" />
+	</mask>
+	<rect x="0" y="0" width="400" height="300" fill="#E38F66" />
+
+	<circle cx="200" cy="150" r="100" fill="#AA445F" />
+	<circle cx="200" cy="150" r="70" fill="#F7EC7D" mask="url(#corners)" />
+</svg>
