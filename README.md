@@ -76,4 +76,8 @@ More info on CSS Battle at https://cssbattle.dev
 
 ## 23. Boxception
 ![Boxception SVG](Display/target23.svg)
+
+## 24. Switches
+![Switches SVG](Display/target24.svg)
+
 More coming soon!
