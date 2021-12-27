@@ -62,6 +62,6 @@ More info on CSS Battle at https://cssbattle.dev
 
 # Battle #3 - Cursor
 ## 19. Cube
-![Cube SVG](Visibility/target1.svg)
+![Cube SVG](Cursor/target1.svg)
 
 More coming soon!
