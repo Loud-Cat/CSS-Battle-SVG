@@ -106,4 +106,8 @@ More info on CSS Battle at https://cssbattle.dev
 ## 32. Band-aid
 ![Band-aid SVG](Conic/target32.svg)
 
+# Battle #7 - Backface
+## 33. Birdie
+![Birdied SVG](Backface/target33.svg)
+
 More coming soon!
