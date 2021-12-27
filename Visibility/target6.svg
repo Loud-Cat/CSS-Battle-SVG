@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<rect x="0" y="0" width="400" height="300" fill="#5C434C" />
+
+	<symbol id="circle" width="160" height="160" viewBox="0 0 2 2">
+		<mask id="corner">
+			<rect x="0" y="0" width="1" height="1" fill="white" />
+		</mask>
+		<circle cx="1" cy="1" r="1" mask="url(#corner)" />
+  	</symbol>
+
+	<g id="side">
+		<use href="#circle" x="10" y="10" fill="#F09462" />
+		<use href="#circle" x="110" y="10" fill="#F5D6B4" />
+
+		<use href="#circle" x="10" y="110" fill="#F5D6B4" />
+		<use href="#circle" x="110" y="110" fill="#F09462" />
+
+		<use href="#circle" x="10" y="210" fill="#F09462" />
+		<use href="#circle" x="110" y="210" fill="#F5D6B4" />
+	</g>
+	<use href="#side" transform="translate(200, 0)" />
+</svg>
