@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+	<mask id="star">
+		<rect x="0" y="0" width="400" height="300" fill="white" />
+		<circle cx="100" cy="50" r="100" />
+		<circle cx="300" cy="50" r="100" />
+		<circle cx="300" cy="250" r="100" />
+		<circle cx="100" cy="250" r="100" />
+	</mask>
+	<rect x="0" y="0" width="400" height="300" fill="#F3AC3C" />
+
+	<circle cx="200" cy="150" r="100" fill="#1A4341" mask="url(#star)" />
+</svg>
