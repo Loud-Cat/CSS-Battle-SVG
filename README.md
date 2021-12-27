@@ -96,4 +96,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 29. Suffocate
 ![Suffocate SVG](Inline/target29.svg)
 
+## 30. Horizon
+![Horizon SVG](Inline/target30.svg)
+
 More coming soon!
