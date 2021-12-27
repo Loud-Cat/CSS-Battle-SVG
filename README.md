@@ -80,4 +80,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 24. Switches
 ![Switches SVG](Display/target24.svg)
 
+## 25. Blossom
+![Blossom SVG](Display/target25.svg)
+
 More coming soon!
