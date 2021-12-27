@@ -74,4 +74,6 @@ More info on CSS Battle at https://cssbattle.dev
 ## 22. Cloud
 ![Cloud SVG](Display/target22.svg)
 
+## 23. Boxception
+![Boxception SVG](Display/target23.svg)
 More coming soon!
