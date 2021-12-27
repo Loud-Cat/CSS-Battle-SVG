@@ -110,4 +110,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 33. Birdie
 ![Birdied SVG](Backface/target33.svg)
 
+## 34. Christmas Tree
+![Christmas Tree SVG](Backface/target34.svg)
+
 More coming soon!
