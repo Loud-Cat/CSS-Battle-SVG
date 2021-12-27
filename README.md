@@ -99,4 +99,11 @@ More info on CSS Battle at https://cssbattle.dev
 ## 30. Horizon
 ![Horizon SVG](Inline/target30.svg)
 
+# Battle #6 - Conic
+## 31. Equals
+![Equals SVG](Conic/target31.svg)
+
+## 32. Band-aid
+![Band-aid SVG](Conic/target32.svg)
+
 More coming soon!
