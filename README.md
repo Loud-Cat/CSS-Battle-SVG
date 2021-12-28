@@ -113,4 +113,10 @@ More info on CSS Battle at https://cssbattle.dev
 ## 34. Christmas Tree
 ![Christmas Tree SVG](Backface/target34.svg)
 
+## 35.
+![SVG](Backface/target35.svg)
+
+## 36.
+![SVG](Backface/target36.svg)
+
 More coming soon!
