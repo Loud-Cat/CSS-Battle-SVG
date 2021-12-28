@@ -113,7 +113,7 @@ More info on CSS Battle at https://cssbattle.dev
 ## 34. Christmas Tree
 ![Christmas Tree SVG](Backface/target34.svg)
 
-## 35.
+## 35. Ice Cream
 ![SVG](Backface/target35.svg)
 
 ## 36.
